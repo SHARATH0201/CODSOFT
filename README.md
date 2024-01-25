@@ -1,7 +1,2 @@
-echo "# CODSOFT" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SHARATH0201/CODSOFT.git
-git push -u origin main
+CODSOFT Virtual Internship - PYTHON PROGRAMMING
+
